@@ -1,0 +1,29 @@
+.food{
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0, 0.2);
+    border-radius: 10px;
+    
+}
+.food img {
+    height: 250px;
+    margin-left: 17px;
+    margin-bottom: 20px;
+
+}
+.title{
+    font-size:20px;
+    text-align: center;
+}
+.description{
+    font-size: 15px;
+    opacity: 0.7
+}
+.price{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:20px;
+}
